@@ -3,8 +3,8 @@ import mongoose from "mongoose";
 const AccountSchema = new mongoose.Schema(
   {
     userId: {
-      type: String,
-      trim: true,
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User",
     },
     type: {
       type: String,
@@ -53,6 +53,18 @@ const AccountSchema = new mongoose.Schema(
     oauth_token: {
       type: String,
       trim: true,
+    },
+    profiles: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "Profile",
+      },
+    ],
+    github: {
+      company: String,
+      publicRepos: Number,
+      followers: Number,
+      following: Number,
     },
   },
   { timestamps: true }

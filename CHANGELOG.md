@@ -1,40 +1,45 @@
-## [1.141.3](https://github.com/EddieHubCommunity/LinkFree/compare/v1.141.2...v1.141.3) (2023-06-12)
+## [2.22.12](https://github.com/EddieHubCommunity/BioDrop/compare/v2.22.11...v2.22.12) (2023-09-26)
 
 
 ### Bug Fixes
 
-* release action warnings ([#7538](https://github.com/EddieHubCommunity/LinkFree/issues/7538)) ([315f966](https://github.com/EddieHubCommunity/LinkFree/commit/315f9668ad3862c2b4e3774ecb5e24030982e819))
+* improved testimonial importing output ([#9166](https://github.com/EddieHubCommunity/BioDrop/issues/9166)) ([341b3ab](https://github.com/EddieHubCommunity/BioDrop/commit/341b3abf29332c5d21b3c5fb12403ccf8801ad54))
 
 
 
-## [1.141.2](https://github.com/EddieHubCommunity/LinkFree/compare/v1.141.1...v1.141.2) (2023-06-12)
-
-
-### Bug Fixes
-
-* profile page group link headings from h3 to h2 ([#7527](https://github.com/EddieHubCommunity/LinkFree/issues/7527)) ([db255ec](https://github.com/EddieHubCommunity/LinkFree/commit/db255ecc096284a7d16b766b94afd43d3b94dfaa))
-
-
-
-## [1.141.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.141.0...v1.141.1) (2023-06-11)
-
-
-
-# [1.141.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.140.10...v1.141.0) (2023-06-11)
-
-
-### Features
-
-* timestamps to all db models ([#7503](https://github.com/EddieHubCommunity/LinkFree/issues/7503)) ([#7510](https://github.com/EddieHubCommunity/LinkFree/issues/7510)) ([3d2ff74](https://github.com/EddieHubCommunity/LinkFree/commit/3d2ff74d5f75ad38228d9607b666c6a223840c95))
-
-
-
-## [1.140.10](https://github.com/EddieHubCommunity/LinkFree/compare/v1.140.9...v1.140.10) (2023-06-11)
+## [2.22.11](https://github.com/EddieHubCommunity/BioDrop/compare/v2.22.10...v2.22.11) (2023-09-26)
 
 
 ### Bug Fixes
 
-* release action token ([#7515](https://github.com/EddieHubCommunity/LinkFree/issues/7515)) ([b9a4b97](https://github.com/EddieHubCommunity/LinkFree/commit/b9a4b9701b16c1ea9f345a1f16b004c85cb50440))
+* testimonials for profiles using forms ([#9156](https://github.com/EddieHubCommunity/BioDrop/issues/9156)) ([1f9dc14](https://github.com/EddieHubCommunity/BioDrop/commit/1f9dc14d3547b78003e6e70c34e9eefc48d6e19f))
+
+
+
+## [2.22.10](https://github.com/EddieHubCommunity/BioDrop/compare/v2.22.9...v2.22.10) (2023-09-25)
+
+
+### Bug Fixes
+
+* accessibility issues on profile page and navbar ([#9161](https://github.com/EddieHubCommunity/BioDrop/issues/9161)) ([b16b350](https://github.com/EddieHubCommunity/BioDrop/commit/b16b3506eaace334ee329de71420f545cdd72ce5))
+
+
+
+## [2.22.9](https://github.com/EddieHubCommunity/BioDrop/compare/v2.22.8...v2.22.9) (2023-09-23)
+
+
+### Bug Fixes
+
+* improve profile async data gathering ([#9131](https://github.com/EddieHubCommunity/BioDrop/issues/9131)) ([98f9fc9](https://github.com/EddieHubCommunity/BioDrop/commit/98f9fc9d18eeace76e59302e3430e63de3fe1770))
+
+
+
+## [2.22.8](https://github.com/EddieHubCommunity/BioDrop/compare/v2.22.7...v2.22.8) (2023-09-22)
+
+
+### Bug Fixes
+
+* remove some stats info from home page ([#9079](https://github.com/EddieHubCommunity/BioDrop/issues/9079)) ([486c514](https://github.com/EddieHubCommunity/BioDrop/commit/486c514c3762099db875d707917468e4f6661830))
 
 
 
